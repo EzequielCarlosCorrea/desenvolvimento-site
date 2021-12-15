@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="Q5Lq5tHfTPkyxyyrqsotZUhJ7TCnKt4X2XOgwXoUMm8" />
+    <title>Site PI VIII</title>
+    <link rel="stylesheet" href="style.css" link rel="stylesheet">
+   <body>
+    <header><img class="active" src="png imagens/logo.png">
+    <nav>
+        <ul>
+            <li><a href="#PANDEMIAS">PANDEMIAS</a></li>
+            <li><a href="#TIPOS DE PANDEMIAS">TIPOS DE PANDEMIAS</a></li>
+            <li><a href="#FAKES">EVITE FAKES </a> </li>
+            <li><a href="#PREVENÇÕES">PREVENÇÕES</a></li>
+        </ul>
+    </nav>
+    <div class="clearfix"></div>
+    </header>
+    <div>
+      <h1>PANDEMIAS & PREVENÇÕES </h1>
+        </div>
+    <div class="section2">
+        <img class="imagens" src="imagens/pandemia.jpeg">
+        <b><a name="PANDEMIAS"></a><p class="one">PANDEMIAS</b>
+                         O conceito moderno de pandemia é o de uma 
+                         epidemia de grandes proporções, que se espalha a 
+                         vários países e a mais de um continente.</td>
+                  </div>
+    <div>
+     <div class="section3">
+         <div class="centralize">
+  <h2> <a name="TIPOS DE PANDEMIAS"></a> TIPOS DE PANDEMIAS </h2>
+   </div>
+  <li class="pre_title"><b>SARS-COV-2</li></b>
+  <table>
+     <tr>
+  <td><img class="imagens" src="imagens/sars.jpg"></td>
+  <td class="artigo1">As estimativas do mais 
+ recente ancestral comum do SARS-CoV-2 datam da epidemia 
+ entre o final de novembro e o início de dezembro de 2019,
+  que é compatível com os primeiros casos <br>
+  <p>notificados. 
+ Assim, houve transmissão humana despercebida após o 
+ evento zoonótico e antes da aquisição do local de decote
+ de furina polibásica. Pacientes com infecção pelo SARS-CoV-2 
+ podem <br> 
+ <p>apresentar sintomas que variam de leve a grave, 
+ sendo grande parte da população portadoras assintomáticas.</td>
+   </tr>
+ </table>
+  <li class="pre_title"><b>TRANSMISSÃO SARS-COV-2</li></b>
+     <table>
+         <tr>
+              <td>
+                 <img class="imagens" src="imagens/virus.jpg"></td>
+             <td class="artigo2">Assim como em outros vírus respiratórios, 
+ a transmissão SARS-CoV-2 ocorre <a class="links" href="https://www.gov.br/anvisa/pt-br/assuntos/servicosdesaude/seguranca-do-paciente/copy_of_versoes-anteriores-das-notas-tecnicas-covid/nota-tecnica-gvims-ggtes-anvisa-no-07-2020"target="_blank">com alta eficácia e infectividade 
+ principalmente pela via respiratória </a>. A transmissão de 
+ gotículas é a principal rota reconhecida. </td>
+             </tr>
+         </table>
+         <li class="pre_title"><b> HIV</b></li>
+     <table>
+         <tr>
+             <td ><img src="imagens/aids.jpg"></td>
+             <td class="artigo3">O HIV foi identificado em 
+                 1981, tornou-se um marco na história da humanidade, 
+                 a transmissão do HIV pode ser contraída através de 
+                 relações sexuais, pelo compartilhamento de seringas 
+                 contaminadas ou de mãe para filho durante a  <br> <p> e 
+                 a amamentação, quando não tomam as devidas medidas de 
+                 prevenção, os primeiros sintomas são muito parecidos 
+                 com os de uma gripe, como febre e mal-estar, por isso, 
+                 a maioria dos casos passa despercebida, senão for 
+                 tratada no início os sintomas <br><p> podem agravar, nesta fase 
+                 os sintomas mais comuns são febre, diarreia, suores 
+                 noturnos e emagrecimento e no estágio mais avançado da 
+                 doença, pode sofrer de hepatites virais, tuberculose, 
+                 pneumonia, toxoplasmose e alguns tipos de câncer.
+                 </td>
+         </tr>
+     </table>
+     <div class="section4">
+         <div class="centralize">
+             <h3><a name="FAKES"></a>EVITE FAKES</h3>
+             
+         </div>
+  </div>
+   <table>
+       <tr>
+           <td><img class="imagens" src="imagens/leito.jpg"></td>
+           <td class="artigo4">É necessário que se entenda o significado do termo “fake news”. Este termo 
+             pode ser traduzido como notícia falsa. Mais precisamente,  são notícias falsas compartilhadas na internet, 
+             principalmente nas redes <br><p>sociais, como se verdadeiras fossem.
+             Consequentemente, o compartilhamento de fotos, notícias, informações, entre outros se tornam mais veloz, atingindo um 
+             elevado número de pessoas, em <br><p>questões de segundos. Com essa evolução traz consigo uma contrapartida maléfica a todos, a 
+             disseminação de notícias falsas, conhecidas como fake news. Não se limitando apenas às notícias, mas também a fotos, vídeos, 
+             etc. Esses atos podem trazer graveis <br><p> consequências, principalmente ao tratar-se de saúde, ao espalhar falsa notícias, 
+             acarretam em trágicos resultados, Internações, Leitos de UTIS lotados, E óbitos de quem mais amamos, e a maior vitíma 
+             dessas “fake news” podem ser você mesmo.
+             Por isso é importante acompanhar o que as pesquisas científicas mostram em, 
+              <A class="links" HREF="https://www.who.int/" target="_blank">sites</A>, idônios
+             </td>
+       </tr>
+   </table>
+   <div>
+     <div class="section3">
+         <div class="centralize">
+   <h4><a name="PREVENÇÕES"></a> PREVENÇÕES </h4>
+   </div>
+   <table>
+     <tr>
+         <td class="artigo5">A importância da prevenção, salva muitas vidas, por isto, deve-ser
+ uma atitude tomadas por todos, pois a maior vitima pode ser você, é importante
+ sempre acompanhar, os Orgãos que divulgam pesquisas ciêntificas, para ajudar a combater,
+ uma doênça, pragas, e pandêmias, temos exemplos de prevenções que no século atual, estão ajudando 
+ combater futuras transmissões e evitando óbitos.
+ </td>
+    </td>
+    <div>
+     <table>
+            <tr>
+             
+                 <p class="post_title"><b>SARS-COV-2</b></p>
+               <td class="artigo6">Prevenções e cuidados que ajuda evitar futuras transmissões<BR>
+                 Uso de máscaras, Àlcool gel, Testagem em massa. </td> 
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td><img class="imagens" src="imagens/vacinascovid.jpg"></td>
+                <td class="artigo7"> Vacinação em massa,que obteve um
+                 grande resultado dimunuindo número de contaminados, e óbitos,<a class="links"href=" https://covid19.who.int" target="_blank"> importante pesquisas 
+                 e levantamentos mostraram a eficácia da vacinação em massa </a>.
+                 </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <p class="post_title"><b>HIV</b></p>
+                <td class="artigo8"> Prevenções e cuidados que ajuda evitar futuras transmissões.<br>
+                 Principalmente o uso de preservátivos, para vitar contaminações,
+                 não compartilhar siringas.</td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td><img class="imagens" src="imagens/coquetel.jpg"></td>
+                <td class="artigo9">O acompanhamento médico de uma mãe soropositiva é o mesmo em relação 
+                 de uma mulher isenta do vírus HIV, porém o tratamento 
+                 deve ser seguido corretamente. A gestante recebe uma 
+                 medicação (coquetel que reduz a quantidade de vírus no <br><p>
+                 organismo) até o parto, diminuindo o risco de transmissão 
+                 ao bebê, mas antes do parto, toda gestante soropositiva 
+                 recebe uma injeção do antiviral AZT.
+                 <BR><a class="links"href="https://www.pfizer.com.br/noticias/ultimas-noticias/importancia-da-vacinacao-para-pessoas-com-HIV-aids" target="_blank">Atualmente existem teste de vacinação contra HIV
+                 No total, 3.800 pessoas </a> se <br><p>ofereceram para participar dos testes nos Estados Unidos,
+                 México, Itália, Espanha, Polônia, Peru, Argentina 
+                 e Brasil. No país, oito centros de estudos 
+                 foram cadastrados. O Hospital Emílio Ribas.
+                 
+                 </td>
+            </tr>
+        </table>
+     </ul>
+         
+    </div>
+    <footer>
+        <h5>UNIVESP POLO SÃO RAFAEL-SP PROJETO INTEGRADOR VIII</h5>
+    </footer>
+ </body>
+ 
+</body>
+</html>
